@@ -1,6 +1,6 @@
 ---
-title: Welcome to my blog
+title: Bienvenue sur mon blog
 ---
-## C'est un test pour voir comment fonctionne le site
-normalement ça passe
+## Salut c'est Sarah !
+Je vais essayée de poster souvant
 
